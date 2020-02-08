@@ -1,5 +1,6 @@
 package algo;
 
-public class Algorithm
+public abstract class Algorithm
 {
+
 }
