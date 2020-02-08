@@ -1,5 +1,9 @@
 package algo;
 
+/**
+ * Generic Algorithm class which encapsulate basic information regarding an algorithm
+ * @param <T>
+ */
 public abstract class Algorithm<T>
 {
     private T data;
