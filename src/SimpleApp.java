@@ -19,6 +19,6 @@ public class SimpleApp
 
     public String toString()
     {
-	System.out.println( "Name: " + name );
+	    return "Name: " + name;
     }
 }
