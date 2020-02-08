@@ -16,4 +16,9 @@ public class SimpleApp
     {
         SimpleApp.name = name;
     }
+
+    public String toString()
+    {
+	System.out.println( "Name: " + name );
+    }
 }
