@@ -32,8 +32,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/algo/Algorithm.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="306">
               <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+=======
+            <state relative-caret-position="323">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+>>>>>>> feature-func-1
               <folding>
                 <element signature="e#461#462#0" expanded="true" />
                 <element signature="e#506#507#0" expanded="true" />
@@ -212,6 +217,7 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
+<<<<<<< HEAD
               <option name="COLUMN_ORDER">
                 <list>
                   <option value="0" />
@@ -220,11 +226,30 @@
                   <option value="3" />
                 </list>
               </option>
+=======
+>>>>>>> feature-func-1
             </State>
           </value>
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
+=======
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> feature-func-1
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/SimpleApp.java">
@@ -249,8 +274,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algo/Algorithm.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="306">
           <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+=======
+        <state relative-caret-position="323">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+>>>>>>> feature-func-1
           <folding>
             <element signature="e#461#462#0" expanded="true" />
             <element signature="e#506#507#0" expanded="true" />

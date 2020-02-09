@@ -20,6 +20,8 @@ public abstract class Algorithm<T>
     {
         this.cloneData = cloneData;
         System.out.println( "sdas" );
+        int x = 10;
+        System.out.println(x);
     }
 
     public String toString()
