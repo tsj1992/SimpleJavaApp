@@ -20,4 +20,9 @@ public abstract class Algorithm<T>
     {
         this.cloneData = cloneData;
     }
+
+    public String toString()
+    {
+        return "This is an algorithm";
+    }
 }
