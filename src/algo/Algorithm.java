@@ -19,6 +19,8 @@ public abstract class Algorithm<T>
     public void setCloneData( boolean cloneData )
     {
         this.cloneData = cloneData;
+        int x = 10;
+        System.out.println(x);
     }
 
     public String toString()
