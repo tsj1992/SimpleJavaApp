@@ -1,5 +1,7 @@
 public class SimpleApp
 {
+    long runtime = 0;
+
     private static String name = null;
 
     public static void main( String[] args )
@@ -20,5 +22,15 @@ public class SimpleApp
     public String toString()
     {
 	    return "Name: " + name;
+    }
+
+    public long getRuntime()
+    {
+        return runtime;
+    }
+
+    public void setRuntime( long runtime )
+    {
+        this.runtime = runtime;
     }
 }
