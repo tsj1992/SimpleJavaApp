@@ -19,6 +19,7 @@ public abstract class Algorithm<T>
     public void setCloneData( boolean cloneData )
     {
         this.cloneData = cloneData;
+        System.out.println( "sdas" );
     }
 
     public String toString()
